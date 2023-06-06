@@ -393,7 +393,7 @@ Provide clear and descriptive error messages when form validation fails. Communi
 
 **Semantic HTML**
 
-Utilize semantic HTML elements to provide meaningful structure to your content. Use headings (<h1>, <h2>, etc.) to establish a hierarchical structure, and appropriate HTML elements (<nav>, <main>, <footer>, etc.) to convey the purpose and role of different sections of your page.
+Utilize semantic HTML elements to provide meaningful structure to your content. Use headings (&lt;h1>, &lt;h2>, etc.) to establish a hierarchical structure, and appropriate HTML elements (&lt;nav>, &lt;main>, &lt;footer>, etc.) to convey the purpose and role of different sections of your page.
 
 # Documentation:
 
