@@ -1,6 +1,6 @@
 ### `yarn`
 
-Installes all the packages used within the application
+Installs all the packages used within the application
 
 ### `yarn start` or `npm start`
 
