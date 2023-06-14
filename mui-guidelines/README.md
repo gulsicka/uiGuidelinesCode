@@ -1,12 +1,3 @@
-### `yarn`
-
-Installs all the packages used within the application
-
-### `yarn start` or `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 # Introduction
 
 Welcome to our MUI Guidelines — a compass for crafting remarkable user interfaces across our projects! These guidelines are your secret weapon for achieving consistency and delight in every application we create.
