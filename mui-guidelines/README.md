@@ -1,3 +1,21 @@
+# Table of Contents
+
+- [Introduction](#introduction)
+  - [Why Mui?](#why-mui)
+- [Installation and Setup](#installation-and-setup)
+- [Theming](#theming)
+- [Styling](#styling)
+  - [Styled Components](#styled-components)
+  - [MakeStyles Usage](#makestyles-usage)
+- [Component Usage](#component-usage)
+  - [Best Practices for Utilizing Components Efficiently and Effectively](#best-practices-for-utilizing-components-efficiently-and-effectively)
+- [Responsiveness and Grid System](#responsiveness-and-grid-system)
+- [Accessibility](#accessibility)
+  - [Guidelines on Using Accessibility Features](#accessibility-guidelines)
+- [Documentation](#documentation)
+- [Code Examples and Samples](#code-examples-and-samples)
+
+
 # Introduction
 
 Welcome to our MUI Guidelines — a compass for crafting remarkable user interfaces across our projects! These guidelines are your secret weapon for achieving consistency and delight in every application we create.
